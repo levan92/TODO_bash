@@ -1,4 +1,4 @@
-TODO_path="~/TODO.md"
+TODO_path="$HOME/TODO.md"
 alias TODO_read="cat -n $TODO_path"
 alias TODO_edit="subl $TODO_path"
 function TODO() {
