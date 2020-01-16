@@ -1,0 +1,1 @@
+cat todo.sh >> "~/.bashrc"
