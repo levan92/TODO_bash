@@ -1,1 +1,1 @@
-cat todo.sh >> "~/.bashrc"
+cat todo.sh >> ~/.bashrc
